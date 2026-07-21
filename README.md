@@ -2,17 +2,17 @@
 
 ## Overview
 
-This project is an end-to-end business analytics solution built using **Microsoft SQL Server** and the **AdventureWorksDW2025** data warehouse. It demonstrates how raw warehouse data can be transformed into meaningful business insights through data preparation, analytical modeling, and advanced SQL analysis.
+This project is an end-to-end business analytics solution built using **Microsoft SQL Server** and the **AdventureWorksDW2025** data warehouse. It demonstrates how raw warehouse data can be transformed into actionable business insights through SQL-based ETL and analytics.
 
-A consolidated analytical table (`AnalysisBase`) was created by integrating sales, customer, product, and geographic information into a single dataset. This dataset serves as the foundation for performing sales analysis, customer analytics, product performance evaluation, and advanced business analytics.
+A consolidated analytical table (`AnalysisBase`) was created by integrating sales, customer, product, and geographic information into a single dataset. This dataset serves as the foundation for performing sales, customer, and product analytics as well as advanced techniques like RFM and Pareto analysis.
 
-The project showcases SQL techniques commonly used by Data Analysts and Business Intelligence professionals, including Common Table Expressions (CTEs), Window Functions, Aggregate Functions, Ranking Functions, and analytical calculations to answer real-world business questions.
+The project showcases SQL techniques commonly used by Data Analysts and Business Intelligence professionals, including Common Table Expressions (CTEs), Window Functions, Aggregate Functions, Ranking, and more.
 
 ---
 
 # Project Objectives
 
-The primary objective of this project is to simulate a real-world business analytics workflow using SQL Server by transforming the AdventureWorksDW2025 data warehouse into a clean analytical dataset capable of answering business questions.
+The primary objective of this project is to simulate a real-world business analytics workflow using SQL Server by transforming the AdventureWorksDW2025 data warehouse into a clean analytical dataset suitable for reporting and analysis.
 
 The project focuses on:
 
@@ -29,7 +29,7 @@ The project focuses on:
 
 **Database:** AdventureWorksDW2025
 
-AdventureWorksDW2025 is Microsoft's sample data warehouse representing a fictional bicycle manufacturing company. The database contains historical sales, customer, product, reseller, geography, and date information designed specifically for analytical workloads.
+AdventureWorksDW2025 is Microsoft's sample data warehouse representing a fictional bicycle manufacturing company. The database contains historical sales, customer, product, reseller, geography, and date information useful for practicing analytics.
 
 ### Tables Used
 
@@ -65,7 +65,7 @@ Business Analytics
         └── Advanced Analytics
 ```
 
-The project follows a structured analytics workflow beginning with data exploration and ending with business-focused reporting. A centralized analytical table named **AnalysisBase** was created to simplify reporting and eliminate repetitive joins across multiple dimension tables.
+The project follows a structured analytics workflow beginning with data exploration and ending with business-focused reporting. A centralized analytical table named **AnalysisBase** was created to simplify downstream reporting and analysis.
 
 ---
 
@@ -280,5 +280,7 @@ AdventureWorks-Sales-Analytics-SQL-Server
 **Jayesh Kumar**
 
 Data Analyst | SQL | Business Analytics | Data Visualization
+
+LinkedIn: https://www.linkedin.com/in/jayesh-kumar10
 
 If you found this project helpful, feel free to star the repository.
