@@ -16,7 +16,7 @@ The project focuses on:
 - Applying advanced analytical techniques using SQL window functions
 - Demonstrating business-oriented SQL development suitable for data analyst roles
 
-- ## Dataset
+ ## Dataset
 
 **Database:** AdventureWorksDW2025
 
