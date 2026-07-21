@@ -144,7 +144,7 @@ Product Analysis evaluates product performance and profitability.
 
 ---
 
-## 4. Advanced Analytics
+## 4 of Advanced Analytics
 
 The project also demonstrates several advanced SQL analytical techniques.
 
@@ -281,6 +281,6 @@ AdventureWorks-Sales-Analytics-SQL-Server
 
 Data Analyst | SQL | Business Analytics | Data Visualization
 
-LinkedIn: https://www.linkedin.com/in/jayesh-kumar10
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayesh%20Kumar-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jayesh-kumar10)
 
 If you found this project helpful, feel free to star the repository.
