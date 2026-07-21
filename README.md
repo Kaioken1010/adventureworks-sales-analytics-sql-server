@@ -279,7 +279,7 @@ AdventureWorks-Sales-Analytics-SQL-Server
 
 **Jayesh Kumar**
 
-Data Analyst | SQL | Business Analytics | Data Visualization
+Data Analyst | SQL | Business Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayesh%20Kumar-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jayesh-kumar10)
 
